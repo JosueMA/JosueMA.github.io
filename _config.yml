@@ -23,10 +23,10 @@ description: Blog about stats
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
-  Code: 'code'
-  Projects: 'projects'
-  Resources:
+  Acerca de mí: "aboutme"
+  Código: 'code'
+  Proyectos: 'projects'
+  Otros:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
 
